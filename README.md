@@ -41,6 +41,10 @@ Theory:
 HOOMD-blue:
 - supports Brownian motion modeling out of the box, and can also add propulsion
 - there is a simulation example in the package, and that is a sample simulation on bacteria motion
+- [github](https://github.com/glotzerlab/hoomd-blue)
+- [tutorials](https://github.com/FeynmanDNA/CityUSimulation/s) - from official website
+- [webinar1](https://vimeo.com/85452639) - introduction to HOOMD-blue
+- [webinar2](https://vimeo.com/84880023) - simulation of a polymer
 
 ## Tasks
 1. (as of March 7th): cannot make gromacs use GPU
